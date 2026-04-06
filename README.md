@@ -1,2 +1,77 @@
-# uems-computacao-verde
-O projeto visa promover conscientização ambiental e responsabilidade tecnológica através de práticas da Computação Verde, ou TI Verde, a partir do incentivo ao descarte adequado e seleção de recursos reaproveitáveis, associado à utilização de softwares mais otimizados com o intuito de prolongar a vida útil de componentes de hardware.
+<!-- Badges -->
+![Status](https://img.shields.io/badge/status-ativo-brightgreen)
+![Instituição](https://img.shields.io/badge/UEMS-Nova%20Andradina-blueviolet)
+![Licença](https://img.shields.io/badge/software-livre-teal)
+![Carga Horária](https://img.shields.io/badge/carga%20hor%C3%A1ria-380h-gray)
+
+# ♻️ Prolongando a vida útil de recursos computacionais  
+### através de atividades que unem formação tecnológica e sustentabilidade
+
+> **Projeto de Ensino · UEMS · Nova Andradina**  
+
+---
+```bash
+$ cat welcome.txt
+
+Olá! Seja bem-vindo(a).
+
+# Se você chegou até aqui, parabéns!
+# Queremos mostrar que hardwares "obsoletos" têm vida.
+# E que você pode prolongar essa vida, e aprender muito nisso.
+
+$ ./entrar_no_projeto.sh
+Iniciando jornada... ██████████ 100%
+Bem-vindo ao mundo do software livre. 🐧
+```
+
+---
+
+## 🤔 O que é este projeto?
+
+Muitos computadores são descartados não porque pararam de funcionar, mas porque o software ficou pesado demais. Este projeto usa **GNU/Linux** para dar nova vida a esses equipamentos, unindo aprendizado técnico real com impacto ambiental e social.
+
+---
+
+## 🧠 O que você vai aprender
+
+| | Tema | Descrição |
+|---|---|---|
+| 🔧 | **Hardware na prática** | Montagem, desmontagem, diagnóstico e recuperação de máquinas reais |
+| 🐧 | **GNU/Linux do zero** | Instalação, terminal, scripts Shell, drivers, gerenciamento de pacotes |
+| ♻️ | **Computação Verde** | Lixo eletrônico, obsolescência programada e descarte responsável |
+| 🌍 | **Impacto real** | Computadores recuperados doados a comunidades carentes de tecnologia |
+
+---
+
+## 🐧 Distribuições que vamos usar
+
+`Lubuntu` · `Linux Mint` · `MX Linux` · `Puppy Linux` · `antiX`
+
+Todas leves, estáveis e perfeitas para hardware que "não roda mais nada".
+
+---
+
+## 📅 Linha do tempo
+```
+Mai–Jun 2026   → Computação Verde, anatomia do hardware
+Jul–Out 2026   → Montagem, testes, preparação para Linux
+Nov 2026       → Instalação do GNU/Linux nas máquinas
+Dez 2026       → 🎪 Feira de máquinas recuperadas
+Mar–Jun 2027   → Otimização, softwares livres, terminal, Shell
+Jul–Set 2027   → Redes, manuais, repositório web
+Out 2027       → Finalização do projeto.
+```
+
+---
+
+## 🌱 Resultados esperados
+
+- ✅ Computadores recuperados e funcionais
+- ✅ Estudantes capacitados em hardware e Linux
+- ✅ Criação de ecopontos para lixo eletrônico
+- ✅ Inclusão digital em comunidades carentes
+- ✅ Repositório web público com guias e scripts do projeto
+
+---
+
+*Universidade Estadual de Mato Grosso do Sul*
