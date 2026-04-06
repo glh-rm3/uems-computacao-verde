@@ -78,15 +78,15 @@ Out 2027       → Finalização do projeto.
 ## 🔗 Links úteis
 
 ### 🐧 Distribuições
-<a href="https://lubuntu.me" target="_blank"><img src="https://img.shields.io/badge/Lubuntu-0068C8?style=flat-square&logo=lubuntu&logoColor=white" /></a>
-<a href="https://linuxmint.com" target="_blank"><img src="https://img.shields.io/badge/Linux%20Mint-4CAF50?style=flat-square&logo=linuxmint&logoColor=white" /></a>
-<a href="https://mxlinux.org" target="_blank"><img src="https://img.shields.io/badge/MX%20Linux-405866?style=flat-square&logo=linux&logoColor=white" /></a>
-<a href="https://puppylinux-woof-ce.github.io" target="_blank"><img src="https://img.shields.io/badge/Puppy%20Linux-5C4A9F?style=flat-square&logo=linux&logoColor=white" /></a>
-<a href="https://antixlinux.com" target="_blank"><img src="https://img.shields.io/badge/antiX-1A1A2E?style=flat-square&logo=linux&logoColor=white" /></a>
+[![Lubuntu](https://img.shields.io/badge/Lubuntu-0068C8?style=flat-square&logo=lubuntu&logoColor=white)](https://lubuntu.me)
+[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-4CAF50?style=flat-square&logo=linuxmint&logoColor=white)](https://linuxmint.com)
+[![MX Linux](https://img.shields.io/badge/MX%20Linux-405866?style=flat-square&logo=linux&logoColor=white)](https://mxlinux.org)
+[![Puppy Linux](https://img.shields.io/badge/Puppy%20Linux-5C4A9F?style=flat-square&logo=linux&logoColor=white)](https://puppylinux-woof-ce.github.io)
+[![antiX](https://img.shields.io/badge/antiX-1A1A2E?style=flat-square&logo=linux&logoColor=white)](https://antixlinux.com)
 
 ### 🟢 Software Livre
-<a href="https://gnu.org" target="_blank"><img src="https://img.shields.io/badge/GNU.org-3C3C3C?style=flat-square&logo=gnu&logoColor=white" /></a>
-<a href="https://fsf.org" target="_blank"><img src="https://img.shields.io/badge/Free%20Software%20Foundation-3C3C3C?style=flat-square&logo=gnu&logoColor=white" /></a>
-<a href="https://www.gnu.org/philosophy/free-sw.pt-br.html" target="_blank"><img src="https://img.shields.io/badge/O%20que%20é%20Software%20Livre%3F-0F6E56?style=flat-square" /></a>
+[![GNU.org](https://img.shields.io/badge/GNU.org-3C3C3C?style=flat-square&logo=gnu&logoColor=white)](https://gnu.org)
+[![Free Software Foundation](https://img.shields.io/badge/Free%20Software%20Foundation-3C3C3C?style=flat-square&logo=gnu&logoColor=white)](https://fsf.org)
+[![O que é Software Livre?](https://img.shields.io/badge/O%20que%20é%20Software%20Livre%3F-0F6E56?style=flat-square)](https://www.gnu.org/philosophy/free-sw.pt-br.html)
 
 *Universidade Estadual de Mato Grosso do Sul*
