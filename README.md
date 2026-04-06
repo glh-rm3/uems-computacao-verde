@@ -73,4 +73,20 @@ Out 2027       → Finalização do projeto.
 
 ---
 
+---
+
+## 🔗 Links úteis
+
+### 🐧 Distribuições
+[![Lubuntu](https://img.shields.io/badge/Lubuntu-0068C8?style=flat-square)](https://lubuntu.me)
+[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat-square)](https://linuxmint.com)
+[![MX Linux](https://img.shields.io/badge/MX%20Linux-405866?style=flat-square)](https://mxlinux.org)
+[![Puppy Linux](https://img.shields.io/badge/Puppy%20Linux-E8A317?style=flat-square)](https://puppylinux-woof-ce.github.io)
+[![antiX](https://img.shields.io/badge/antiX-B22222?style=flat-square)](https://antixlinux.com)
+
+### 🟢 Software Livre
+[![GNU.org](https://img.shields.io/badge/GNU.org-A42E2B?style=flat-square)](https://gnu.org)
+[![Free Software Foundation](https://img.shields.io/badge/Free%20Software%20Foundation-A42E2B?style=flat-square)](https://fsf.org)
+[![O que é Software Livre?](https://img.shields.io/badge/O%20que%20é%20Software%20Livre%3F-555555?style=flat-square)](https://www.gnu.org/philosophy/free-sw.pt-br.html)
+
 *Universidade Estadual de Mato Grosso do Sul*
