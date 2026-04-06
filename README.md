@@ -1,11 +1,10 @@
 <!-- Badges -->
-![Status](https://img.shields.io/badge/status-ativo-brightgreen)
-![Instituição](https://img.shields.io/badge/UEMS-Nova%20Andradina-blueviolet)
-![Licença](https://img.shields.io/badge/software-livre-teal)
-![Carga Horária](https://img.shields.io/badge/carga%20hor%C3%A1ria-380h-gray)
+<img src="https://img.shields.io/badge/status-ativo-4CAF50?style=flat-square" />
+<img src="https://img.shields.io/badge/UEMS-Nova%20Andradina-534AB7?style=flat-square" />
+<img src="https://img.shields.io/badge/software-livre-0F6E56?style=flat-square" />
+<img src="https://img.shields.io/badge/carga%20horária-380h-5F5E5A?style=flat-square" />
 
-# ♻️ Prolongando a vida útil de recursos computacionais  
-### através de atividades que unem formação tecnológica e sustentabilidade
+# ♻️ Prolongando a vida útil de recursos computacionais através de atividades que unem formação tecnológica e sustentabilidade
 
 > **Projeto de Ensino · UEMS · Nova Andradina**  
 
