@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/carga%20horária-380h-5F5E5A?style=flat-square)](.)
 
 # ♻️ Prolongando a vida útil de recursos computacionais
-### através de atividades que unem formação tecnológica e sustentabilidade
+### Através de atividades que unem formação tecnológica e sustentabilidade
 
 > **Projeto de Ensino · UEMS · Nova Andradina**  
 
