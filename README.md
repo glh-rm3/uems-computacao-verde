@@ -38,7 +38,7 @@ Muitos computadores são descartados não porque pararam de funcionar, mas porqu
 | 🔧 | **Hardware na prática** | Montagem, desmontagem, diagnóstico e recuperação de máquinas reais |
 | 🐧 | **GNU/Linux do zero** | Instalação, terminal, scripts Shell, drivers, gerenciamento de pacotes |
 | ♻️ | **Computação Verde** | Lixo eletrônico, obsolescência programada e descarte responsável |
-| 🌍 | **Impacto real** | Computadores recuperados doados a comunidades carentes de tecnologia |
+| 🌍 | **Impacto real** | Capacitação Técnica, recuperação de equipamentos, socialização do conhecimento |
 
 ---
 
@@ -68,7 +68,7 @@ Out 2027       → Finalização do projeto.
 - ✅ Computadores recuperados e funcionais
 - ✅ Estudantes capacitados em hardware e Linux
 - ✅ Criação de ecopontos para lixo eletrônico
-- ✅ Inclusão digital em comunidades carentes
+- ✅ Criação de Comunidade
 - ✅ Repositório web público com guias e scripts do projeto
 
 ---
