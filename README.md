@@ -89,4 +89,7 @@ Out 2027       → Finalização do projeto.
 [![Free Software Foundation](https://img.shields.io/badge/Free%20Software%20Foundation-3C3C3C?style=flat-square&logo=gnu&logoColor=white)](https://fsf.org)
 [![O que é Software Livre?](https://img.shields.io/badge/O%20que%20é%20Software%20Livre%3F-0F6E56?style=flat-square)](https://www.gnu.org/philosophy/free-sw.pt-br.html)
 
+### 💬 Redes Sociais
+[![instagram](https://img.shields.io/badge/@revitalinux-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/revitalinux/) 
+
 *Universidade Estadual de Mato Grosso do Sul*
